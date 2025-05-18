@@ -1,4 +1,4 @@
 resources:
-- ../guestbook-ui-deployment.yaml
+- ../
 patches:
   - path: increase_replicas.yaml
